@@ -1,0 +1,4 @@
+[submodule "ecFetch"]
+	path = fetch
+	url = git@github.com:tankhiwale/ecFetch.git
+	branch = master
